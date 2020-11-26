@@ -7,9 +7,12 @@ React project that uses [the breaking bad api](https://breakingbadapi.com/) to s
 
 
 
-![image](https://user-images.githubusercontent.com/36249617/100348756-5f821200-300d-11eb-8c76-20da8f82b9dd.png)
+- ![adf](https://user-images.githubusercontent.com/36249617/100349396-63fafa80-300e-11eb-94f4-c5716c32c911.png)
 _Better Call Saul Cast_
 
 
-![image](https://user-images.githubusercontent.com/36249617/100348920-a3751700-300d-11eb-947c-943d290e5034.png)
+
+
+
+- ![adf](https://user-images.githubusercontent.com/36249617/100349171-09fa3500-300e-11eb-8667-94e9f44bc956.png)
 _Breaking Bad characters -- name search_
